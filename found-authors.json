@@ -1,0 +1,594 @@
+[
+    {
+        "id": 63,
+        "name": "",
+        "expired": null,
+        "synonyms": [
+            ""
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Abdullah Ibn Noorullah al-Bahrani (exp. 12th century A.H.)",
+        "expired": "12",
+        "synonyms": [
+            "Abdullah Ibn Noorullah al-Bahrani (exp. 12th century A.H.)"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Abu l-Hasan 'Ali b. Muhammad Julabi al-Maghazili (exp. 483 A.H.)",
+        "expired": "483",
+        "synonyms": [
+            "Abu l-Hasan 'Ali b. Muhammad Julabi al-Maghazili (exp. 483 A.H.)"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Abu l-Qasim 'Ali b. Muhammad b. 'Ali al-Khazzaz al-Qummi (exp. 400 A.H.)",
+        "expired": "400",
+        "synonyms": [
+            "Abu l-Qasim 'Ali b. Muhammad b. 'Ali al-Khazzaz al-Qummi (exp. 400 A.H.)"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Abul Qasim Mahmood Ibn Umar al-Zamakhshari (fifth century scholar of Ahle Tasannun)",
+        "expired": null,
+        "synonyms": [
+            "Abul Qasim Mahmood Ibn Umar al-Zamakhshari (fifth century scholar of Ahle Tasannun)"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Ahmad Ibn Abi Taahir (280 A.H.)",
+        "expired": "280",
+        "synonyms": [
+            "Ahmad Ibn Abi Taahir (280 A.H.)"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Ahmad Ibn Moosa Ibn Taawoos (r.a.) (exp. 673 A.H.)",
+        "expired": "673",
+        "synonyms": [
+            "Ahmad Ibn Moosa Ibn Taawoos (r.a.) (exp. 673 A.H.)"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Ahmed Ibn Moosa Ibn Tawoos (r.a.) (exp. 673 A.H.)",
+        "expired": "673",
+        "synonyms": [
+            "Ahmed Ibn Moosa Ibn Tawoos (r.a.) (exp. 673 A.H.)"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Al-Haakim al-Haskaani al-Hanafi al-Neshapuri, a fifth century scholar",
+        "expired": null,
+        "synonyms": [
+            "Al-Haakim al-Haskaani al-Hanafi al-Neshapuri, a fifth century scholar"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Al-Sayyid 'Abd al-Husayn Sharaf al-Din (exp. 1377 A.H.)",
+        "expired": "1377",
+        "synonyms": [
+            "Al-Sayyid 'Abd al-Husayn Sharaf al-Din (exp. 1377 A.H.)"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Ali Ibn Imam Jafar al-Sadeq (peace be upon him) (exp.in 3rd century A.H.)",
+        "expired": null,
+        "synonyms": [
+            "Ali Ibn Imam Jafar al-Sadeq (peace be upon him) (exp.in 3rd century A.H.)"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Ali Ibn Yunus al-Nabaati al-Bayaadhi al-Aameli (r.a.) (exp. 877 A.H.)",
+        "expired": "877",
+        "synonyms": [
+            "Ali Ibn Yunus al-Nabaati al-Bayaadhi al-Aameli (r.a.) (exp. 877 A.H.)"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Allamah Mohammad Baqir al-Majlisi (r.a.) (1110 A.H.)",
+        "expired": "1110",
+        "synonyms": [
+            "Allamah Mohammad Baqir al-Majlisi (r.a.) (1110 A.H.)"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Allamah Mohammad Baqir al-Majlisi (r.a.) (exp. 1110 A.H.)",
+        "expired": "1110",
+        "synonyms": [
+            "Allamah Mohammad Baqir al-Majlisi (r.a.) (exp. 1110 A.H.)"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Allamah Shaikh Muhammad Baqir al-Majlisi (r.a.) (exp. 1110 A.H.)",
+        "expired": "1110",
+        "synonyms": [
+            "Allamah Shaikh Muhammad Baqir al-Majlisi (r.a.) (exp. 1110 A.H.)"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Allamah al-Hasan Ibn Yusuf Ibn Ali Ibn Mohammad Ibn Mutahhar al-Hilli (exp. 726 A.H.)",
+        "expired": "726",
+        "synonyms": [
+            "Allamah al-Hasan Ibn Yusuf Ibn Ali Ibn Mohammad Ibn Mutahhar al-Hilli (exp. 726 A.H.)"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Ameenul Islam Abu Ali al-Tabrisi (exp. 548 A.H.)",
+        "expired": "548",
+        "synonyms": [
+            "Ameenul Islam Abu Ali al-Tabrisi (exp. 548 A.H.)"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Emaad al-Deen al-Tabari (exp. 4th Century A.H.)",
+        "expired": null,
+        "synonyms": [
+            "Emaad al-Deen al-Tabari (exp. 4th Century A.H.)"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Emaad al-deen Muhammad Ibn Jurair al-Tabari (r.a.) [a 6th century scholar]",
+        "expired": null,
+        "synonyms": [
+            "Emaad al-deen Muhammad Ibn Jurair al-Tabari (r.a.) [a 6th century scholar]"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Fakhruddin Ibn Mohammad al-Turayhi (exp. 1085 A.H.)",
+        "expired": "1085",
+        "synonyms": [
+            "Fakhruddin Ibn Mohammad al-Turayhi (exp. 1085 A.H.)"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Furaat Ibn Ibrahim al-Kufi (r.a.) (born in the 3rd century A.H. and a prominent personality of the minor occultation)",
+        "expired": null,
+        "synonyms": [
+            "Furaat Ibn Ibrahim al-Kufi (r.a.) (born in the 3rd century A.H. and a prominent personality of the minor occultation)"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Hafiz Ibn Hajar al-Asqalani (exp. 852 A.H.), a famous Ahle Tasannun scholar",
+        "expired": "852",
+        "synonyms": [
+            "Hafiz Ibn Hajar al-Asqalani (exp. 852 A.H.), a famous Ahle Tasannun scholar"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Hasan b. Abi al-Hasan al-Daylami (exp. 8th century A.H.)",
+        "expired": null,
+        "synonyms": [
+            "Hasan b. Abi al-Hasan al-Daylami (exp. 8th century A.H.)"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Husain Ibn Hamadan al-Khosaibi (exp. 334 A.H.)",
+        "expired": "334",
+        "synonyms": [
+            "Husain Ibn Hamadan al-Khosaibi (exp. 334 A.H.)"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Ibn Idris al-Hilli (exp. 598 A.H.)",
+        "expired": "598",
+        "synonyms": [
+            "Ibn Idris al-Hilli (exp. 598 A.H.)"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Ibn Mashhadi (610H)",
+        "expired": "610",
+        "synonyms": [
+            "Ibn Mashhadi (610H)"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Ibn Shahr Ashoub (r.a.) (exp. 588 A.H.)",
+        "expired": "588",
+        "synonyms": [
+            "Ibn Shahr Ashoub (r.a.) (exp. 588 A.H.)"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Ibn al-Qawlawayh (r.a.) (367 A.H.)",
+        "expired": "367",
+        "synonyms": [
+            "Ibn al-Qawlawayh (r.a.) (367 A.H.)"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Imam Hasan al-Askari (peace be upon him) (260 A.H.)",
+        "expired": "260",
+        "synonyms": [
+            "Imam Hasan al-Askari (peace be upon him) (260 A.H.)"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Mohammad Ibn Mohammad al-Shoairi (exp. 6th century A.H.)",
+        "expired": null,
+        "synonyms": [
+            "Mohammad Ibn Mohammad al-Shoairi (exp. 6th century A.H.)"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Muhammad Ibn Ahmad famous as Ibn Shaazaan al-Qummi (r.a.) (exp. 4th century A.H.)",
+        "expired": null,
+        "synonyms": [
+            "Muhammad Ibn Ahmad famous as Ibn Shaazaan al-Qummi (r.a.) (exp. 4th century A.H.)"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Muhammad Ibn Hasan Fattaal Neshapoori famous as Ibn al-Faarsi (r.a.) (martyred in 508 A.H.)",
+        "expired": "508",
+        "synonyms": [
+            "Muhammad Ibn Hasan Fattaal Neshapoori famous as Ibn al-Faarsi (r.a.) (martyred in 508 A.H.)"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Muhammad Ibn Hasan Ibn Farrokh al-Saffar (r.a.) (exp. 290 A.H.)",
+        "expired": "290",
+        "synonyms": [
+            "Muhammad Ibn Hasan Ibn Farrokh al-Saffar (r.a.) (exp. 290 A.H.)"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Muhammad Ibn Mas\u2019ood al-Ayyaashi al-Samarqandi al-Baghdadi (exp. 320 A.H.)",
+        "expired": "320",
+        "synonyms": [
+            "Muhammad Ibn Mas\u2019ood al-Ayyaashi al-Samarqandi al-Baghdadi (exp. 320 A.H.)"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Muhammad Ibn Shahr Aashob Maazandarani (r.a.) (exp. 588 A.H.)",
+        "expired": "588",
+        "synonyms": [
+            "Muhammad Ibn Shahr Aashob Maazandarani (r.a.) (exp. 588 A.H.)"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Qutbuddin Sa\u2019d Ibn Hebatillah al-Raawandi (exp. 573 A.H.)",
+        "expired": "573",
+        "synonyms": [
+            "Qutbuddin Sa\u2019d Ibn Hebatillah al-Raawandi (exp. 573 A.H.)"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Sayed Ibn Taawoos (r.a.)",
+        "expired": null,
+        "synonyms": [
+            "Sayed Ibn Taawoos (r.a.)"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Sayed Sharaf al-Deen al-Husaini al-Astarabadi (r.a.) (exp. 940 A.H.)",
+        "expired": "940",
+        "synonyms": [
+            "Sayed Sharaf al-Deen al-Husaini al-Astarabadi (r.a.) (exp. 940 A.H.)"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Sayed Sharafuddin Abu al-Hasan Ali Astarabaadi (r.a.) (exp. 940 A.H.) (It is the abridged version of Ta\u2019veel al-Aayaat al-Zaaherah)",
+        "expired": "940",
+        "synonyms": [
+            "Sayed Sharafuddin Abu al-Hasan Ali Astarabaadi (r.a.) (exp. 940 A.H.) (It is the abridged version of Ta\u2019veel al-Aayaat al-Zaaherah)"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Sayyed Hashim Bahrani (r.a.) (1107 A.H.)",
+        "expired": "1107",
+        "synonyms": [
+            "Sayyed Hashim Bahrani (r.a.) (1107 A.H.)"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Sayyed Hashim Bahrani (r.a.) (exp. 1107 A.H.)",
+        "expired": "1107",
+        "synonyms": [
+            "Sayyed Hashim Bahrani (r.a.) (exp. 1107 A.H.)"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Sayyed Ibn Taawoos (r.a.) (exp. 664 A.H.)",
+        "expired": "664",
+        "synonyms": [
+            "Sayyed Ibn Taawoos (r.a.) (exp. 664 A.H.)"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Shaikh Abde Ali al-Huwaizi (r.a.) (1112 A.H.)",
+        "expired": "1112",
+        "synonyms": [
+            "Shaikh Abde Ali al-Huwaizi (r.a.) (1112 A.H.)"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Shaikh Abdullah bin Ja\u2019far al-Himyari (r.a.) (310 A.H.)",
+        "expired": "310",
+        "synonyms": [
+            "Shaikh Abdullah bin Ja\u2019far al-Himyari (r.a.) (310 A.H.)"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Shaikh Abu Jafar Muhammad Ibn Hasan al-Toosi (r.a.) (exp. 460 A.H.)",
+        "expired": "460",
+        "synonyms": [
+            "Shaikh Abu Jafar Muhammad Ibn Hasan al-Toosi (r.a.) (exp. 460 A.H.)"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Shaikh Ahmed al-Barqi (r.a.) (exp. 274 A.H.)",
+        "expired": "274",
+        "synonyms": [
+            "Shaikh Ahmed al-Barqi (r.a.) (exp. 274 A.H.)"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Shaikh Ali Ibn Isa Irbali (r.a.) (692 A.H.)",
+        "expired": "692",
+        "synonyms": [
+            "Shaikh Ali Ibn Isa Irbali (r.a.) (692 A.H.)"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Shaikh Hurr al-Ameli (r.a.) (1104 A.H.)",
+        "expired": "1104",
+        "synonyms": [
+            "Shaikh Hurr al-Ameli (r.a.) (1104 A.H.)"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Shaikh Mohammad Ibn Umar al-Kashi (r.a.) (exp. 370 A.H.)",
+        "expired": "370",
+        "synonyms": [
+            "Shaikh Mohammad Ibn Umar al-Kashi (r.a.) (exp. 370 A.H.)"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Shaikh Mohammad bin Ahmad Ibn Idris (r.a.) (exp. 598 A.H.)",
+        "expired": "598",
+        "synonyms": [
+            "Shaikh Mohammad bin Ahmad Ibn Idris (r.a.) (exp. 598 A.H.)"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Shaikh Muhammad Ibn Ali Ibn Husain Ibn Baabwayh al-Qummi famous as al-Saduq (r.a.) (381 A.H.)",
+        "expired": "381",
+        "synonyms": [
+            "Shaikh Muhammad Ibn Ali Ibn Husain Ibn Baabwayh al-Qummi famous as al-Saduq (r.a.) (381 A.H.)"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Shaikh Muhammad Ibn Ali Ibn Husain Ibn Baabwayh al-Qummi famous as al-Saduq (r.a.) (exp. 381 A.H.)",
+        "expired": "381",
+        "synonyms": [
+            "Shaikh Muhammad Ibn Ali Ibn Husain Ibn Baabwayh al-Qummi famous as al-Saduq (r.a.) (exp. 381 A.H.)"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Shaikh Muhammad Ibn Ali Ibn al-Baabwayh al-Qummi famous as al-Saduq (r.a.) (exp. 381 A.H.)",
+        "expired": "381",
+        "synonyms": [
+            "Shaikh Muhammad Ibn Ali Ibn al-Baabwayh al-Qummi famous as al-Saduq (r.a.) (exp. 381 A.H.)"
+        ]
+    },
+    {
+        "id": 0,
+        "name": "Shaikh Muhammad Ibn Muhammad Ibn Noman al-Tallaukbari famous as al-Mufeed (r.a.) (exp. 413 A.H.)",
+        "expired": "413",
+        "synonyms": [
+            "Shaikh Muhammad Ibn Muhammad Ibn Noman al-Tallaukbari famous as al-Mufeed (r.a.) (exp. 413 A.H.)"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Shaikh Muhammad Ibn Yaqub al-Kulayni (r.a.) (exp. 329 A.H.)",
+        "expired": "329",
+        "synonyms": [
+            "Shaikh Muhammad Ibn Yaqub al-Kulayni (r.a.) (exp. 329 A.H.)"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Shaikh Muhammad al-Nomani (r.a.) (360 A.H.)",
+        "expired": "360",
+        "synonyms": [
+            "Shaikh Muhammad al-Nomani (r.a.) (360 A.H.)"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Shaikh Saduq (r.a.) (381 A.H.)",
+        "expired": "381",
+        "synonyms": [
+            "Shaikh Saduq (r.a.) (381 A.H.)"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Shaikh Saduq (r.a.) (exp. 381 A.H.)",
+        "expired": "381",
+        "synonyms": [
+            "Shaikh Saduq (r.a.) (exp. 381 A.H.)"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Shaikh Tabarsi (r.a.) (548 A.H.)",
+        "expired": "548",
+        "synonyms": [
+            "Shaikh Tabarsi (r.a.) (548 A.H.)"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Shaikh Tabrisi (r.a.) (exp. 00 A.H.)",
+        "expired": "00",
+        "synonyms": [
+            "Shaikh Tabrisi (r.a.) (exp. 00 A.H.)"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Shaikh Toosi (r.a.) (460 A.H.)",
+        "expired": "460",
+        "synonyms": [
+            "Shaikh Toosi (r.a.) (460 A.H.)"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Shaikh Yusuf Ibn Haatim al-Shaami, a student of Muhaqqiq Hilli (r.a.) (6th century)",
+        "expired": null,
+        "synonyms": [
+            "Shaikh Yusuf Ibn Haatim al-Shaami, a student of Muhaqqiq Hilli (r.a.) (6th century)"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Shaikh al-Hasan bin Sho\u2019abah al-Harrani (r.a.) (4th century)",
+        "expired": null,
+        "synonyms": [
+            "Shaikh al-Hasan bin Sho\u2019abah al-Harrani (r.a.) (4th century)"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Shams ad-D\u012bn adh-Dhahab\u012b (exp. 748 A.H.) - a famous Ahle Tasannun scholar",
+        "expired": "748",
+        "synonyms": [
+            "Shams ad-D\u012bn adh-Dhahab\u012b (exp. 748 A.H.) - a famous Ahle Tasannun scholar"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Sulaim Ibn Qais al-Hilaali al-Kufi (r.a.) (exp. 80 A.H.)",
+        "expired": "80",
+        "synonyms": [
+            "Sulaim Ibn Qais al-Hilaali al-Kufi (r.a.) (exp. 80 A.H.)"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Syed Husain Noori (exp. 1320H A.H.)",
+        "expired": "1320",
+        "synonyms": [
+            "Syed Husain Noori (exp. 1320H A.H.)"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Yahya Ibn al-Hasan Ibn Bitriq (exp. 600 A.H.)",
+        "expired": "600",
+        "synonyms": [
+            "Yahya Ibn al-Hasan Ibn Bitriq (exp. 600 A.H.)"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "al-Fadl Ibn al-Hasan al-Tabarsi (exp. 548 A.H.)",
+        "expired": "548",
+        "synonyms": [
+            "al-Fadl Ibn al-Hasan al-Tabarsi (exp. 548 A.H.)"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "al-Sayed Raziuddin Ali Ibn Moosa Ibn Taawoos famous as Sayed Ibn Taawoos (r.a.) (exp. 664 A.H.)",
+        "expired": "664",
+        "synonyms": [
+            "al-Sayed Raziuddin Ali Ibn Moosa Ibn Taawoos famous as Sayed Ibn Taawoos (r.a.) (exp. 664 A.H.)"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "al-Shaikh Ali Ibn Ibrahim al-Qummi (r.a.) (exp. 306 A.H.)",
+        "expired": "306",
+        "synonyms": [
+            "al-Shaikh Ali Ibn Ibrahim al-Qummi (r.a.) (exp. 306 A.H.)"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "al-Shaikh Muhammad Ibn Ali Ibn Husain Ibn Baabwayh al-Qummi famous as al-Saduq (r.a.) (exp. 381 A.H.)",
+        "expired": "381",
+        "synonyms": [
+            "al-Shaikh Muhammad Ibn Ali Ibn Husain Ibn Baabwayh al-Qummi famous as al-Saduq (r.a.) (exp. 381 A.H.)"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "al-Shaikh Muhammad Ibn Ali Ibn al-Baabwayh al-Qummi famous as al-Saduq (r.a.) (exp. 381 A.H.)",
+        "expired": "381",
+        "synonyms": [
+            "al-Shaikh Muhammad Ibn Ali Ibn al-Baabwayh al-Qummi famous as al-Saduq (r.a.) (exp. 381 A.H.)"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "al-Shaikh Muhammad Ibn al-Hasan famous as al-Hurr al-Aamili (r.a.) (1104 A.H.)",
+        "expired": "1104",
+        "synonyms": [
+            "al-Shaikh Muhammad Ibn al-Hasan famous as al-Hurr al-Aamili (r.a.) (1104 A.H.)"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "compiled by Syed Sharif Razi (exp. 407 A.H.)",
+        "expired": "407",
+        "synonyms": [
+            "compiled by Syed Sharif Razi (exp. 407 A.H.)"
+        ]
+    }
+]
